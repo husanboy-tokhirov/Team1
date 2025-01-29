@@ -1,0 +1,14 @@
+body {
+    background-image: url('../images/bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    backdrop-filter: grayscale(100%);
+  }
+  /* .containers {
+    width: 90%;
+    margin: 0 auto;
+  } */
+  .ul__bg {
+    background-color: rgb(107, 107, 107);
+  }
